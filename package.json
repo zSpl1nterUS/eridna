@@ -1,0 +1,9 @@
+{
+  "name": "eridna",
+  "version": "1.0.0",
+  "description": "Implements prototype for Eris",
+  "main": "lib/index.js",
+  "repository": "https://github.com/remfanboy/eridna",
+  "author": "Rem fanboy",
+  "license": "MIT"
+}
