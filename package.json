@@ -1,6 +1,6 @@
 {
   "name": "eridna",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Implements prototype for Eris",
   "main": "lib/index.js",
   "repository": "https://github.com/remfanboy/eridna",
